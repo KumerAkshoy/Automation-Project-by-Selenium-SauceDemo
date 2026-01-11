@@ -58,7 +58,7 @@ The automation suite focuses **only on positive test scenarios**, ensuring that 
    
 ---
 
-##📊 Test Execution
+## 📊 Test Execution
 
 - Automated tests validate the expected behavior of the application
 
@@ -68,7 +68,7 @@ The automation suite focuses **only on positive test scenarios**, ensuring that 
   
 ---
 
-📚 Learning Outcomes
+## 📚 Learning Outcomes
 
 - Hands-on experience with end-to-end automation
 
